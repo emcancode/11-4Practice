@@ -1,0 +1,33 @@
+body {
+    background-color: lightseagreen;
+    border-style: groove;
+    border-color: blue;
+}
+
+p {
+    color:purple;
+    font-size:12px;
+    border-style: groove;
+    border-color: blue;
+}
+
+img {
+    height:100px;
+    width:100px;
+    border-style: groove;
+    border-color: blue;
+}
+
+ol {
+    color:purple;
+    font-size:12px;
+    border-style: groove;
+    border-color: blue;
+}
+
+ul{
+    color:purple;
+    font-size:12px;
+    border-style: groove;
+    border-color: blue;
+}
